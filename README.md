@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**KidusAgonafer/KidusAgonafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi there 👋 My name is Kidus (Pronounced Ka-doos) and I am aspiring cybersecurity professional.
 
 Here are some ideas to get you started:
 
