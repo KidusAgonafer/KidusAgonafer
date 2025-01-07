@@ -1,6 +1,4 @@
- Hi there 👋 My name is Kidus (Pronounced Ka-doos) and I am aspiring cybersecurity professional.
-
-Here are some ideas to get you started:
+ Hi there 👋 I am Kidus (Pronounced Ka-doos) and an aspiring cybersecurity professional.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
