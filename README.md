@@ -1,7 +1,7 @@
 <h1>Hi, I'm Kidus, an <a href="https://www.linkedin.com/in/kidus-agonafer-099356206/">IT Professional</a> 👨‍💻</h1>
 
 <p>
-I am passionate about solving technical problems, building efficient IT systems, and helping organizations streamline their operations through technology. With hands-on experience in help desk systems, cloud computing, and network security, I am excited to bring my skills to the IT field.
+I am passionate about solving technical problems, building efficient IT systems, and helping organizations streamline their operations through technology. With hands-on experience in help desk systems, cloud computing, and network security, I am excited to bring my skills to your organization.
 </p>
 
 ---
