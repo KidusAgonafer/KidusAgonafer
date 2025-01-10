@@ -41,10 +41,4 @@ I am passionate about solving technical problems, building efficient IT systems,
 - [LinkedIn](https://www.linkedin.com/in/kidus-agonafer-099356206/)  
 - [Twitter](https://x.com/kadoos404)  
 
----
 
-<h2>📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KidusAgonafer&show_icons=true&hide_title=true&count_private=true&theme=radical" />
-</p>
