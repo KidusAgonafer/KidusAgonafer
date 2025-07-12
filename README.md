@@ -19,10 +19,6 @@ I am passionate about solving technical problems, building efficient IT systems,
 - [Post-Installation Configuration](https://github.com/KidusAgonafer/post-install-config): Configured ticket workflows, SLAs, and user permissions.  
 - [Ticket Lifecycle Examples](https://github.com/KidusAgonafer/ticket-lifecycle): Demonstrated the complete lifecycle of a support ticket from submission to resolution.
   
-### ☁️ Microsoft Azure
-- [Azure Crash Course](https://github.com/KidusAgonafer/azure-crash-course): Hands-on exploration of Azure's core services, including VM and storage setup.
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KidusAgonafer/azure-network-protocols): Configured NSGs and explored network protocol traffic for secure communication.
-- [VPN Configuration](https://github.com/KidusAgonafer/vpn-lab): Configured secure VPNs to connect remote users to internal systems.  
 
 
 ---
